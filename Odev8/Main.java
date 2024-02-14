@@ -135,6 +135,8 @@ public class Main {
         System.out.println("Backend Gorevler");
         for (String gorev : backend.gorevListesi){
             System.out.println(gorev);
+
+
         }
     }
 }
