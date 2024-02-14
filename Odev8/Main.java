@@ -136,7 +136,6 @@ public class Main {
         for (String gorev : backend.gorevListesi){
             System.out.println(gorev);
 
-
         }
     }
 }
