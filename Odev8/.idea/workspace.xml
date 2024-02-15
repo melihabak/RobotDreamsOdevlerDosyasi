@@ -1,39 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ee5f6d3-6528-4112-baf6-f1c66a5596a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Odev8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Odev8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Odev8/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Odev8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Odev8/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Odev8/Departman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Odev8/Departman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Odev8/Ekip1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Odev8/Ekip1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Odev8/Ekip2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Odev8/Ekip2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Odev8/Erkek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Odev8/Erkek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Odev8/Kadin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Odev8/Kadin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Odev8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Odev8/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Odev8/Odev8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Odev8/Odev8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Odev8/Personel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Odev8/Personel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RobotDreamsOdevlerDosyasi.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/Departman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/Ekip1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/Ekip2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/Erkek.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/Kadin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/Odev8.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/Personel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/out/production/Odev8/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/out/production/Odev8/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/out/production/Odev8/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RobotDreamsOdevlerDosyasi/out/production/Odev8/Odev8.iml" beforeDir="false" />
+    <list default="true" id="5ee5f6d3-6528-4112-baf6-f1c66a5596a0" name="Changes" comment="No message">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +20,12 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,6 +35,29 @@
       <option name="presentableId" value="Default" />
       <updated>1707908008869</updated>
     </task>
+    <task id="LOCAL-00001" summary="No message">
+      <created>1707908217503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707908217503</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="No message" />
+    <option name="LAST_COMMIT_MESSAGE" value="No message" />
   </component>
 </project>
