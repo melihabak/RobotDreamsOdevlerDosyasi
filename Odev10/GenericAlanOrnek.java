@@ -12,7 +12,7 @@ public class GenericAlanOrnek {
     static class TestGeneric <T> {
         T obj; //T tipinde bir nesne bildirildi
 
-        // Constructur olusturuldu
+        // Constructor olusturuldu
         public TestGeneric(T obj) {
             this.obj = obj;
         }
