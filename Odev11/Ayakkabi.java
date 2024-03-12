@@ -48,7 +48,6 @@ public class Ayakkabi {
         public Ayakkabi build() {
             return new Ayakkabi(this);
         }
-
     }
 }
 
@@ -56,7 +55,7 @@ public class Ayakkabi {
 
         public static void main(String[] args) {
 
-            Ayakkabi ayakkabi1 = new Ayakkabi.AyakkabiBuilder("Nike").setNumara(45).setBagcikVar(false).build();
+            Ayakkabi ayakkabi1 = new Ayakkabi.AyakkabiBuilder("Nike").build();
             Ayakkabi ayakkabi2 = new Ayakkabi.AyakkabiBuilder("Adidas").setNumara(42).setBagcikVar(true).build();
             System.out.println("Olusturulan birinci ayakkabinin ozellikleri -> Marka:"+ayakkabi1.getMarka()+" - Numara:"+ayakkabi1.getNumara()+" - Bagcik Durumu:"+ayakkabi1.isBagcikVar());
             System.out.println("************************");
