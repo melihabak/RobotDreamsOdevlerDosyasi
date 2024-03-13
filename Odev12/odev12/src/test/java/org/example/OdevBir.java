@@ -37,7 +37,7 @@ public class OdevBir {
             while (rs.next()) {
                 String ad = rs.getString("ad");
                 int id = rs.getInt("id");
-                System.out.println(ad + "     " + id);
+                System.out.println(id + "     " + ad);
             }
 
         } catch (SQLException e) {
