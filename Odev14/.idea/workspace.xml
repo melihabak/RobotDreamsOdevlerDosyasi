@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0411f1e3-ade6-4c22-aef0-405b2bea8de8" name="Changes" comment="odev 14,15,16,17 altyapisi olusturuldu">
+    <list default="true" id="0411f1e3-ade6-4c22-aef0-405b2bea8de8" name="Changes" comment="odev 14 birinci madde tamamlandi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DemoCSSSelector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710654047244</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="odev 14 birinci madde tamamlandi">
+      <created>1710664026467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710664026467</updated>
+    </task>
+    <task id="LOCAL-00004" summary="odev 14 birinci madde tamamlandi">
+      <created>1710664074639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710664074639</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="odev altyapisi olusturuldu" />
     <MESSAGE value="odev 14,15,16,17 altyapisi olusturuldu" />
-    <option name="LAST_COMMIT_MESSAGE" value="odev 14,15,16,17 altyapisi olusturuldu" />
+    <MESSAGE value="odev 14 birinci madde tamamlandi" />
+    <option name="LAST_COMMIT_MESSAGE" value="odev 14 birinci madde tamamlandi" />
   </component>
 </project>
