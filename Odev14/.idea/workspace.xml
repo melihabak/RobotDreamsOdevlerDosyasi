@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0411f1e3-ade6-4c22-aef0-405b2bea8de8" name="Changes" comment="odev altyapisi olusturuldu">
-      <change afterPath="$PROJECT_DIR$/Odev14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev15/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev15/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev15/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev15/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev15/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev15/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev15/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev15/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev15/src/main/java/org/example/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev15/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev17/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev17/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev17/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev17/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev17/src/main/java/org/example/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev17/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Odev18/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="0411f1e3-ade6-4c22-aef0-405b2bea8de8" name="Changes" comment="odev 14,15,16,17 altyapisi olusturuldu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DemoCSSSelector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710652816109</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="odev 14,15,16,17 altyapisi olusturuldu">
+      <created>1710654047244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710654047244</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="odev altyapisi olusturuldu" />
-    <option name="LAST_COMMIT_MESSAGE" value="odev altyapisi olusturuldu" />
+    <MESSAGE value="odev 14,15,16,17 altyapisi olusturuldu" />
+    <option name="LAST_COMMIT_MESSAGE" value="odev 14,15,16,17 altyapisi olusturuldu" />
   </component>
 </project>
