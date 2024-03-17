@@ -29,5 +29,6 @@ public class DemoXPathSelector2 {
         driver.findElement(By.xpath("//button[@id='submit']")).click();
         Thread.sleep(5000);
         driver.quit();
+
     }
 }
