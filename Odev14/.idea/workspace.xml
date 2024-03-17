@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7623924f-1b62-4565-8247-9564ab0ddf19" name="Changes" comment="Odev13 tamamlandi">
+    <list default="true" id="0411f1e3-ade6-4c22-aef0-405b2bea8de8" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Odev12/odev12/src/test/java/org/example/OdevIki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Odev12/odev12/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev12/odev12/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev13/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +31,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2dlLGBC0IL2ChArrOpyVqzKQn2m" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,26 +38,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/melih.abak/Downloads/selenium-server-4.18.1.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7623924f-1b62-4565-8247-9564ab0ddf19" name="Changes" comment="" />
-      <created>1710577620819</created>
+      <changelist id="0411f1e3-ade6-4c22-aef0-405b2bea8de8" name="Changes" comment="" />
+      <created>1710589407246</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710577620819</updated>
+      <updated>1710589407246</updated>
     </task>
-    <task id="LOCAL-00001" summary="Odev13 tamamlandi">
-      <created>1710586124733</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1710586124733</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,9 +66,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Odev13 tamamlandi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Odev13 tamamlandi" />
   </component>
 </project>
