@@ -1,5 +1,4 @@
 public class StringIndexOutOfBound {
-
     public void StringIndexHata(){
 
         try {
