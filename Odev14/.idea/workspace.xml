@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0411f1e3-ade6-4c22-aef0-405b2bea8de8" name="Changes" comment="odev 14 ikinci madde tamamlandi" />
+    <list default="true" id="0411f1e3-ade6-4c22-aef0-405b2bea8de8" name="Changes" comment="odev 14 her iki kisim da tamamlandi" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710665764208</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="odev 14 her iki kisim da tamamlandi">
+      <created>1710741358796</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710741358796</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +128,7 @@
     <MESSAGE value="odev 14,15,16,17 altyapisi olusturuldu" />
     <MESSAGE value="odev 14 birinci madde tamamlandi" />
     <MESSAGE value="odev 14 ikinci madde tamamlandi" />
-    <option name="LAST_COMMIT_MESSAGE" value="odev 14 ikinci madde tamamlandi" />
+    <MESSAGE value="odev 14 her iki kisim da tamamlandi" />
+    <option name="LAST_COMMIT_MESSAGE" value="odev 14 her iki kisim da tamamlandi" />
   </component>
 </project>
