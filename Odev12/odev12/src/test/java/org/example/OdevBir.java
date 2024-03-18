@@ -6,15 +6,15 @@ public class OdevBir {
 
     public static void main(String[] args) throws SQLException {
 
-        //String sql = "select ad from ogrencitablosu where id=1";
         String query = "select * from ogrencitablosu where id = ? and ad = ?";
         String url = "jdbc:postgresql://localhost:5432/Ogrenci";
         String username = "postgres";
         String password = "password";
 
-        Connection con = null;
+        Connection con;
+
         try {
-            con = DriverManager.getConnection(url,username,password);
+             con = DriverManager.getConnection(url,username,password);
 
         /*
         //statement ile sorgu
@@ -27,26 +27,20 @@ public class OdevBir {
 
             //preparedstatement ile sorgu
             PreparedStatement ps = con.prepareStatement(query);
-
             ps.setInt(1, 1);
             ps.setString(2,"melih");
 
             ResultSet rs = ps.executeQuery();
-            System.out.println("id      ad");
+            System.out.println("id       ad");
 
             while (rs.next()) {
                 String ad = rs.getString("ad");
                 int id = rs.getInt("id");
-                System.out.println(id + "     " + ad);
+                System.out.println(id + "      " + ad);
             }
-
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }
-
         con.close();
-
-
     }
-
 }

@@ -6,19 +6,18 @@ public class OdevIki {
 
     /*
     public static void main(String[] args) throws Exception {
-
         String url = "jdbc:mysql://sql11.freemysqlhosting.net:3306/sql11678198";
         Class.forName("com.mysql.jdbc.Driver");
         Connection conn = DriverManager.getConnection(url, "sql11678198", "wVJ6TIBGWB");
         System.out.println("Database connection established");
         conn.close();
         System.out.println("Database connection terminated");
-
     }
-
      */
 
+
     public static void main(String[] args) {
+
         String url = "jdbc:mysql://sql11.freemysqlhosting.net:3306/sql11678198";
         String kullaniciAdi = "sql11678198";
         String sifre = "wVJ6TIBGWB";
@@ -26,10 +25,9 @@ public class OdevIki {
         Connection connection = null;
         PreparedStatement preparedStatement = null;
         ResultSet resultSet = null;
+
         try {
             connection = DriverManager.getConnection(url, kullaniciAdi, sifre);
-
-
 
             // Kullanıcıdan alınan girişler
             String kullaniciAdiGiris = "melih";
