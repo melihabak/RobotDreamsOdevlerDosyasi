@@ -22,7 +22,7 @@ public class KarisikTest {
         int maas = personelmaas.maashesaplama();
         int CalisilanGunSayisi = 27;
         int GunlukUcret = 1000;
-        if (CalisilanGunSayisi<25){
+        if (CalisilanGunSayisi<=25){
             assertEquals(20000,maas);
         } else if (CalisilanGunSayisi<31) {
             assertEquals(CalisilanGunSayisi*GunlukUcret,maas);
