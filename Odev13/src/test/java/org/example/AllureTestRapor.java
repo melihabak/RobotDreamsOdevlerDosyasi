@@ -1,10 +1,18 @@
 package org.example;
 
+import io.qameta.allure.Step;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertEquals;
-public class KarisikTest {
-    @Test
+public class AllureTestRapor {
+    @BeforeTest
+    public void beforeCall(){
+        System.out.println("This is before test method");
+    }
+    @Step("Test case 001")
+    @Test(priority = 1)
     public void testPersonel(){
         Personel test = new Personel();
         test.Isim = "melih";
@@ -17,7 +25,8 @@ public class KarisikTest {
         assertEquals(3,test.getCalismaYili());
         assertEquals("Inovasyon",test.getDepartman());
     }
-    @Test
+    @Step("Test case 002")
+    @Test(priority = 2)
     public void testMaas(){
 
         personelmaas test = new personelmaas();
@@ -29,5 +38,10 @@ public class KarisikTest {
         } else if (CalisilanGunSayisi<31) {
             assertEquals(CalisilanGunSayisi*GunlukUcret,maas);
         }
+    }
+
+    @AfterTest
+    public void tearDown(){
+        System.out.println("This is after test method");
     }
 }

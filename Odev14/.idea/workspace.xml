@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0411f1e3-ade6-4c22-aef0-405b2bea8de8" name="Changes" comment="odev 14 her iki kisim da tamamlandi" />
+    <list default="true" id="0411f1e3-ade6-4c22-aef0-405b2bea8de8" name="Changes" comment="odev14 her iki kisim da tamamlandi">
+      <change beforePath="$PROJECT_DIR$/../Odev13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710741358796</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="odev tamamlandi">
+      <created>1710742657700</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710742657700</updated>
+    </task>
+    <task id="LOCAL-00008" summary="odev14 her iki kisim da tamamlandi">
+      <created>1710742740742</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710742740742</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +146,8 @@
     <MESSAGE value="odev 14 birinci madde tamamlandi" />
     <MESSAGE value="odev 14 ikinci madde tamamlandi" />
     <MESSAGE value="odev 14 her iki kisim da tamamlandi" />
-    <option name="LAST_COMMIT_MESSAGE" value="odev 14 her iki kisim da tamamlandi" />
+    <MESSAGE value="odev tamamlandi" />
+    <MESSAGE value="odev14 her iki kisim da tamamlandi" />
+    <option name="LAST_COMMIT_MESSAGE" value="odev14 her iki kisim da tamamlandi" />
   </component>
 </project>
