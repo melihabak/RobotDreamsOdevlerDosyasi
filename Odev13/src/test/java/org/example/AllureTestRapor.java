@@ -28,7 +28,6 @@ public class AllureTestRapor {
     @Step("Test case 002")
     @Test(priority = 2)
     public void testMaas(){
-
         personelmaas test = new personelmaas();
         int maas = personelmaas.maashesaplama();
         int CalisilanGunSayisi = 27;
