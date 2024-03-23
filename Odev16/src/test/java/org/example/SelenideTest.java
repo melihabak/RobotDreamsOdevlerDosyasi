@@ -12,7 +12,7 @@ public class SelenideTest {
         driver.get("https://demoqa.com/elements");
         Thread.sleep(1000);
         driver.findElement(By.cssSelector("#item-4")).click();
-        driver.findElement(By.xpath("/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[3]/button[1]")).click();
+        driver.findElement(By.cssSelector("#i6nal")).click();
         String okunanMesaj = driver.findElement(By.cssSelector("#dynamicClickMessage")).getText();
         System.out.println(okunanMesaj);
         driver.quit();
