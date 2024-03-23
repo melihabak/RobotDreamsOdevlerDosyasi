@@ -11,9 +11,10 @@ public class DemoXPathSelector {
         WebDriver driver = new ChromeDriver();
         driver.get("https://demoqa.com/elements");
         Thread.sleep(1000);
-        driver.findElement(By.xpath("/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/span[1]")).click();
-        driver.findElement(By.xpath("/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[3]/button[1]")).click();
-        String okunanMesaj = driver.findElement(By.xpath("/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/p[1]")).getText();
+        driver.findElement(By.xpath("//span[contains(text(),'Buttons')]")).click();
+        //driver.findElement(By.xpath("//button[contains(text(),'Click Me')]")).click(); //bu xpath diger 3 butonu da icerdiginden en basta gordugune tiklar
+        driver.findElement(By.xpath("//button[starts-with(text(),'Click Me')]")).click();
+        String okunanMesaj = driver.findElement(By.xpath("//p[@id='dynamicClickMessage']")).getText();
         System.out.println(okunanMesaj);
         driver.quit();
 
