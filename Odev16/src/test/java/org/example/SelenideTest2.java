@@ -8,7 +8,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import static com.codeborne.selenide.Selenide.$;
 public class SelenideTest2 {
-
     public static void main(String[] args) throws InterruptedException {
         System.setProperty("webdriver.chrome.driver","C:\\Users\\melih.abak\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();

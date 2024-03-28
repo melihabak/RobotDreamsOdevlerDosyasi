@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0411f1e3-ade6-4c22-aef0-405b2bea8de8" name="Changes" comment="odev14 her iki kisim da tamamlandi">
+      <change afterPath="$PROJECT_DIR$/../Odev17/src/main/java/testRunners/runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Odev13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev13/src/main/java/org/example/personelmaas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev13/src/main/java/org/example/personelmaas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DemoCSSSelector2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DemoCSSSelector2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev17/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev17/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev17/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev17/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev17/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev17/src/main/java/org/example/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev17/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev19/src/test/java/org/example/AllureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev19/src/test/java/org/example/AllureTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

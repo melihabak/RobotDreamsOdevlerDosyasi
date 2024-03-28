@@ -6,7 +6,6 @@ public class personelmaas {
         int maas = 20000 ; //sabit maas
         //Scanner input = new Scanner(System.in);
         int a =27;
-        System.out.print("Calisilan gun sayisini giriniz : ");
         //a = input.nextInt();
         if (a<=25){
             return (maas);

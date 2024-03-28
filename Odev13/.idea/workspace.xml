@@ -4,9 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7623924f-1b62-4565-8247-9564ab0ddf19" name="Changes" comment="odev tamamlandi">
+    <list default="true" id="7623924f-1b62-4565-8247-9564ab0ddf19" name="Changes" comment="odev tamamlandii">
+      <change afterPath="$PROJECT_DIR$/../Odev17/src/test/java/StepDefinitions/demoqa2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev17/src/test/resources/features/demoqa2.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev18/src/test/java/StepDefinitions/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev18/src/test/java/StepDefinitions/demoqa1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AllureTestRapor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AllureTestRapor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/personelmaas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/personelmaas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev14/src/main/java/org/example/DemoCSSSelector2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev14/src/main/java/org/example/DemoCSSSelector2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev16/src/test/java/org/example/SelenideTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev16/src/test/java/org/example/SelenideTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev17/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev17/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev17/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev17/src/main/java/org/example/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev17/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev19/src/test/java/org/example/AllureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev19/src/test/java/org/example/AllureTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +47,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/melih.abak/Desktop/RobotDreamsOdevlerDosyasi/Odev13/testng.xml&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/melih.abak/Desktop/Udemy_Appium&quot;
   }
 }</component>
   <component name="RunManager">
@@ -94,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710842820689</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="odev tamamlandii">
+      <created>1710912938409</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710912938409</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +131,7 @@
     <MESSAGE value="Odev13 tamamlandi" />
     <MESSAGE value="odev13 tamamlandi" />
     <MESSAGE value="odev tamamlandi" />
-    <option name="LAST_COMMIT_MESSAGE" value="odev tamamlandi" />
+    <MESSAGE value="odev tamamlandii" />
+    <option name="LAST_COMMIT_MESSAGE" value="odev tamamlandii" />
   </component>
 </project>
